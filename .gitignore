@@ -1,0 +1,35 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+MemoryCaptures/
+
+# Asset meta data
+*.unityproj
+*.prefab
+*.pidb
+*.booproj
+*.sln
+*.suo
+*.sln.DotSettings
+.vs/
+.idea/
+
+# Rider
+.idea/
+.Rider/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Visual Studio files
+.vs/
+
+# macOS
+.DS_Store
